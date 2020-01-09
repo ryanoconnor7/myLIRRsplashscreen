@@ -19,10 +19,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :                       
-your_link                                 :            
-your_city                                 :                                 
-email_address                             : 
+your_name                                 : MTA Long Island RailRoad                      
+your_link                                 : https://mylirr.org           
+your_city                                 : Jamaica, NY                                
+email_address                             : feedback@mylirr.org
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : map-pin
     
   - title                                 : Track Trains on Map
-    description                           : 
+    description                           : Updated every 3 seconds. Vuew train type and number or cars. 
     fontawesome_icon_name                 : train
 
   - title                                 : View Service Status & Alerts
